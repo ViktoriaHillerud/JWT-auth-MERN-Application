@@ -8,7 +8,7 @@ require("dotenv").config();
 
 
 
-//Read ALL users
+//Read ALL userss
 
 export const readAllUsers = async () => {
   try {
